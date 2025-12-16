@@ -3,7 +3,11 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Pokemon Memory Game",
-  description: "Match the matching Pokemon cards!",
+  description: "Match the matching Pokemon cards! A fun and beautiful memory card game featuring your favorite Pokemon.",
+  icons: {
+    icon: '/icon.svg',
+  },
+  manifest: '/manifest.json',
 };
 
 export default function RootLayout({

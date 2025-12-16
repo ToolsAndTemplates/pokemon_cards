@@ -1,0 +1,16 @@
+{
+  "name": "Pokemon Memory Game",
+  "short_name": "Pokemon Match",
+  "description": "Match the matching Pokemon cards!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#312e81",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
